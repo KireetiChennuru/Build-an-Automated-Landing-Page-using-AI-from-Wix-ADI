@@ -39,11 +39,12 @@ This project follows a **modular architecture** where each component, such as la
 
 ## Additional Information
 
-A demo video has been recorded to verify all steps were performed successfully. This video demonstrates the website landing page design, webiste sections, testing the email automation and Live Webinar registration. You can find the video below for reference:
+- A demo video has been recorded to verify all steps were performed successfully. This video demonstrates the website landing page design, webiste sections, testing the email automation and Live Webinar registration. You can find the video below for reference:
 
 [![Project Demo Video](demo-video-thumbnail.png)](https://github.com/KireetiChennuru/Build-an-Automated-Landing-Page-using-AI-from-Wix-ADI/blob/main/project_files/Project-Demo.webm)
+<br>
 
-Additionally, I’m happy to share the certification for this project issued by Coursera Project Network
+- Additionally, I’m happy to share the certification for this project issued by Coursera Project Network
 
 ![Certification](https://github.com/KireetiChennuru/Build-an-Automated-Landing-Page-using-AI-from-Wix-ADI/blob/main/project_files/CERTIFICATE_LANDING_PAGE~3TFYNB6GY8CC.jpeg)
 
