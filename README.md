@@ -43,4 +43,7 @@ A demo video has been recorded to verify all steps were performed successfully. 
 
 [![Project Demo Video](demo-video-thumbnail.png)](link-to-demo-video)
 
+## Author
+
+- Kireeti Chennuru | www.linkedin.com/in/kireeti-chennuru
 
