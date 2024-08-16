@@ -43,6 +43,10 @@ A demo video has been recorded to verify all steps were performed successfully. 
 
 [![Project Demo Video](demo-video-thumbnail.png)](https://github.com/KireetiChennuru/Build-an-Automated-Landing-Page-using-AI-from-Wix-ADI/blob/main/project_files/Project-Demo.webm)
 
+Additionally, I’m happy to share the certification for this project issued by Coursera Project Network
+
+![Certification](https://github.com/KireetiChennuru/Build-an-Automated-Landing-Page-using-AI-from-Wix-ADI/blob/main/project_files/CERTIFICATE_LANDING_PAGE~3TFYNB6GY8CC.jpeg)
+
 
 ## Author
 
