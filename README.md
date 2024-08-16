@@ -41,7 +41,8 @@ This project follows a **modular architecture** where each component, such as la
 
 A demo video has been recorded to verify all steps were performed successfully. This video demonstrates the entire process from creating the landing page to testing the email automation. You can find the video below for reference:
 
-[![Project Demo Video](demo-video-thumbnail.png)](link-to-demo-video)
+[![Project Demo Video](demo-video-thumbnail.png)](https://github.com/KireetiChennuru/Build-an-Automated-Landing-Page-using-AI-from-Wix-ADI/blob/main/project_files/Project-Demo.webm)
+
 
 ## Author
 
